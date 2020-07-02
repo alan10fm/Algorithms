@@ -1,2 +1,2 @@
 # Algorithms
-Exercises related with algorithm 
+Exercises related with algorithms
